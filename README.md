@@ -1,2 +1,3 @@
-# -Cl-nica-Veterin-ria-poo-12-11
-Atividade valendo 1 ponto na  matéria de programação 2
+# Clínica Veterinária — TypeScript e POO
+
+Projeto da atividade de Programação Orientada a Objetos, organizado em pastas por responsabilidade.
